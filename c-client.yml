@@ -1,2 +1,5 @@
 server:
   port: 5555
+  
+ msg:
+  one: some random text
